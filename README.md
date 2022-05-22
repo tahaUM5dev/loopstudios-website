@@ -2,8 +2,8 @@
 
 > About project
 
-This project is a challenge from **frontendmenro**
-Theu provide the design and the template and the README files
+This project is a challenge from **Frontend Mentor**
+They provide the designs,templates and the README files
 
 > Technologies
 > . HTML
@@ -22,8 +22,5 @@ Theu provide the design and the template and the README files
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+> Phone design
+> . <"./design-ph-t\p1.PNG">
