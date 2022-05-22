@@ -2,8 +2,8 @@
 
 > About project
 
-This project is a challenge from **frontendmenro**
-Theu provide the design and the template and the README files
+This project is a challenge from **Frontend Mentor**
+They provide the designs,templates and the README files
 
 > Technologies
 > . HTML
